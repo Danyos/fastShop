@@ -1,0 +1,60 @@
+@media only screen and (max-width: 900px) {
+
+
+    .card-image {
+        width: 48%;
+    }
+
+    .brands {
+        background: linear-gradient(180deg, rgb(232, 115, 0) 0%, rgb(232, 115, 0) 35%, rgb(23, 201, 64) 35%, rgb(23, 201, 64) 99%);
+
+    }
+    .card{
+        width: 30%;
+    }
+
+}
+@media only screen and (max-width: 700px) {
+    .card-image {
+        width: 90%;
+    }
+
+    .brands {
+        background: linear-gradient(180deg, rgb(232, 115, 0) 0%, rgb(62, 57, 196) 35%, rgb(81, 0, 145) 35%, rgb(23, 201, 64) 99%);
+
+    }
+    .card{
+        width: 48%;
+    }
+    .title{
+        font-size: 40px;
+    }
+
+    .left-banner{
+        width: 45%;
+
+    }
+    .right-banner{
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 550px ) {
+    .card {
+        width: 90%;
+    }
+
+    .left-banner {
+        width: 90%;
+
+    }
+
+    .right-banner {
+        width: 90%;
+    }
+
+    .sport-card-text {
+        padding: 80px 50px;
+    }
+
+}

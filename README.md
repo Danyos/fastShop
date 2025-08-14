@@ -5,7 +5,7 @@
 
 **A responsive and clean web page built entirely with pure CSS.**
 
-[**➥ Live Demo**](https://sarah-petrosyan.github.io/Quality-handyman-service/)
+[**➥ Live Demo**](https://danyos.github.io/fastShop/)
 
 </div>
 
